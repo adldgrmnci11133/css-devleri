@@ -1,0 +1,14 @@
+
+   
+body { 
+        background-color: rgb(197, 48, 28);
+    color: aliceblue; }
+
+
+       
+        .text-red {
+            color: rgb(255, 255, 255);
+        }
+        .fs-40 {
+            font-size: 25px;
+        }
