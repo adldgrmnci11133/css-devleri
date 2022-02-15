@@ -1,0 +1,47 @@
+ /* nav { margin: 0, auto;} 
+ body {
+     margin 0
+     padding 0 denildiğinde sayfanın üstündeki alan sıfırlanır... 
+ } 
+ */
+
+ .box { 
+    padding-left: 165px; 
+        float: left;      
+}
+
+.bg-t {
+    width: 800px; height: 80px ;
+    background-color: rgb(10, 240, 240);
+    margin-left: 100px;
+    margin-right: 10px ;
+}
+.bg-tt {
+    width: 350px; height: 80px ;
+    background-color: rgb(1, 206, 206);
+}
+.bg-ttt {
+    width: 1000px; height: 80px ;
+    background-color: rgb(0, 122, 122);
+    margin-right: 100px;
+    margin-left: 10px ;
+}
+
+
+    nav { 
+        
+        padding-left: 965px;   
+        padding-top: 300px;
+    }
+
+
+.src {
+    width: 1600px; height: 80px ;
+    background-color: transparent;
+    
+}
+.buton {
+    width: 200px; height: 40px ;
+    background-color: transparent;
+    
+}
